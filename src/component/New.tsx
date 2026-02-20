@@ -6,7 +6,7 @@ import img4 from '../assets/videol.jpg'
 function New() {
   return (
     <>
-    <div className="New">
+    <div className="main">
       <div className="top">
         <div className="ttop">How It Works</div>
         <div className="tbot">getting a personalized video from your celebrity it easy.Just follow these simple steps</div>
