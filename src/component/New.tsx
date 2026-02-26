@@ -3,7 +3,7 @@ import img1 from '../assets/searchlogo.jpg'
 import img2 from '../assets/msg.jpg'
 import img3 from '../assets/card.jpg'
 import img4 from '../assets/videol.jpg'
-import img5 from '../assets/rarrow.jpg'
+import img5 from '../assets/rightlogo.jpg'
 function New() {
   return (
     <>
@@ -57,7 +57,7 @@ function New() {
         <div className="b1">
           <div className="b1l">Start Booking Now</div>
           <div className="b1r">
-            <img src={img5} alt="" srcset="" className="img5"/>
+            <img src={img5} alt=""className="img5"/>
           </div>
         </div>
       </div>
