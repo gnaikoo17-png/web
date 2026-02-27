@@ -62,4 +62,4 @@ function Gani1() {
      </>
      )
 }
- export default Gani1
+export default Gani1
